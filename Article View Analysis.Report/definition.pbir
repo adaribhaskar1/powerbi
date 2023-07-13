@@ -1,0 +1,9 @@
+{
+  "version": "1.0",
+  "datasetReference": {
+    "byPath": {
+      "path": "../Article View Analysis.Dataset"
+    },
+    "byConnection": null
+  }
+}
