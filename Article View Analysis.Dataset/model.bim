@@ -573,7 +573,7 @@
         "measures": [
           {
             "name": "Global Returning Visits",
-            "expression": "CALCULATE(COUNTX('GroupBy','GroupBy'[Count]),'GroupBy'[Count]>1)",
+            "expression": "CALCULATE(COUNTX('GroupBy','GroupBy'[Count]),'GroupBy'[Count]>3)",
             "formatString": "0",
             "lineageTag": "5b98ba5d-06ee-46d5-a682-e1dc03250912"
           },
